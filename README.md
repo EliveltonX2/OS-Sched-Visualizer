@@ -2,7 +2,7 @@
 
 Este é um simulador avançado de algoritmos de escalonamento de CPU, desenvolvido para a disciplina de Sistemas Operacionais. O projeto oferece uma interface gráfica moderna e intuitiva para visualizar como o processador gerencia diferentes processos através de Diagramas de Gantt e logs detalhados.
 
-![Screenshot da Interface](https://via.placeholder.com/800x450.png?text=Interface+do+Simulador+CPU)
+![Screenshot_da_Interface](Screenshot_da_Interface.png)
 
 ## ✨ Funcionalidades
 
