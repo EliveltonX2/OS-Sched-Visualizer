@@ -101,4 +101,4 @@ python build_exe.py
 - **[PyInstaller](https://pyinstaller.org/)**: Empacotamento de software para Windows.
 
 ---
-Desenvolvido como parte do trabalho de **Mestrado**.
+Desenvolvido como parte do trabalho de **Mestrado** por Elivelton Almeida Pardini e Demerval Alves de Souza Junior.
