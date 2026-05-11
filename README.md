@@ -102,3 +102,5 @@ python build_exe.py
 
 ---
 Desenvolvido como parte do trabalho de **Mestrado** por Elivelton Almeida Pardini e Demerval Alves de Souza Junior.
+---
+
